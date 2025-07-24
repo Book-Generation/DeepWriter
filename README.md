@@ -49,7 +49,5 @@ Traditional large language models (LLMs) struggle to generate lengthy and cohere
 
 ```bash
 git clone https://github.com/Book-Generation/DeepWriter.git
-cd DeepWriter
-pip install -r requirements.txt
 
 ```
