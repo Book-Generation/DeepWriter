@@ -3,7 +3,7 @@
 DeepWriter is an advanced multi-agent collaboration framework designed to generate ultra-long, information-rich books across diverse topics. It addresses long-standing challenges in long-form text generation—such as coherence, structural planning, and content richness—by orchestrating multiple specialized agents in a planning-then-generation paradigm.
 
 
-![DeepWriter Architecture](https://github.com/Book-Generation/DeepWriter/assets/deepwriter_architecture.pdf)
+![DeepWriter Architecture](https://github.com/Book-Generation/DeepWriter/assets/DeepWriter_architecture.pdf)
 
 ---
 
@@ -51,3 +51,5 @@ Traditional large language models (LLMs) struggle to generate lengthy and cohere
 git clone https://github.com/Book-Generation/DeepWriter.git
 cd DeepWriter
 pip install -r requirements.txt
+
+```
