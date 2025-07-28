@@ -45,6 +45,8 @@ Traditional large language models (LLMs) struggle to generate lengthy and cohere
 
 ## 🚀 Getting Started
 
+> 📌 Note: Code and benchmark data will be progressively released in phases after peer review and paper acceptance.
+
 ### Installation
 
 ```bash
